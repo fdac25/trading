@@ -1,0 +1,2186 @@
+ticker,date,form,url,title,snippet,price_t0,ret_3d,label_3d,ret_5d,label_5d
+AMD,2018-10-31,10-Q,https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/amd0929201810q.htm,10-Q,"10-Q
+1
+amd0929201810q.htm
+10-Q
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+ 
+ 
+Form 10-Q
+ 
+ 
+ 
+ 
+(Mark One)
+þ
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+September 29, 2018
+ 
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from             to             
+Commission File Number 001-07882
+ 
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+94-1692300
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+ 
+ 
+2485 Augustine Drive
+Santa Clara, California
+ 
+95054
+(Address of principal executive offices)
+ 
+(Zip Code)
+Registrant’s telephone number, including area code: (408) 749-4000
+ 
+ 
+ 
+ 
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 (the Exchange Act) during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  
+þ
+   No  
+¨
+Indicate by check mark whether the registrant has submitted electronically every Interactive Data File required to be submitted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit such files).    Yes  
+þ
+    No  
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and ""emerging growth company"" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+ 
+þ
+  
+Accelerated filer
+ 
+¨
+ 
+ 
+ 
+ 
+Non-accelerated filer
+ 
+¨ 
+  
+Smaller reporting ",18.209999084472656,0.09280618446041822,UP,0.09280618446041822,UP
+AMD,2018-10-24,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000186/a20181024q318earnings8-k.htm,8-K,"8-K
+1
+a20181024q318earnings8-k.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+October 24, 2018
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).Emerging growth company 
+o
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+ 
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this report furnished pursuant to Items 2.02 and 7.01, includ",22.790000915527344,-0.26064064481939364,DOWN,-0.26064064481939364,DOWN
+AMD,2018-08-27,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000166/amd_form8-svp82718.htm,8-K,"8-K
+1
+amd_form8-svp82718.htm
+8-K
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+August 22, 2018
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+o
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+o
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+o
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+o
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company  
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  
+o
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+De",25.260000228881836,-0.01464769738245475,DOWN,0.1108471580241348,UP
+AMD,2018-08-06,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000130/amd_form8-kneolti2018.htm,8-K,"8-K
+1
+amd_form8-kneolti2018.htm
+8-K
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+July 31, 2018
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+ 
+o
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+ 
+o
+    Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+ 
+o
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+ 
+o
+    Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company  
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  
+o
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+N",19.43000030517578,-0.016984041097423352,DOWN,0.015440001664880798,UP
+AMD,2018-08-02,10-Q,https://www.sec.gov/Archives/edgar/data/2488/000000248818000128/amd0630201810q.htm,10-Q,"10-Q
+1
+amd0630201810q.htm
+10-Q
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+ 
+ 
+Form 10-Q
+ 
+ 
+ 
+ 
+(Mark One)
+þ
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+June 30, 2018
+ 
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from             to             
+Commission File Number 001-07882
+ 
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+94-1692300
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+ 
+ 
+2485 Augustine Drive
+Santa Clara, California
+ 
+95054
+(Address of principal executive offices)
+ 
+(Zip Code)
+Registrant’s telephone number, including area code: (408) 749-4000
+ 
+ 
+ 
+ 
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 (the Exchange Act) during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  
+þ
+   No  
+¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  
+þ
+    No  
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and ""emerging growth company"" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+ 
+þ
+  
+Accelerated filer",18.790000915527344,0.034060636427088564,UP,0.04097916513557709,UP
+AMD,2018-07-25,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000124/a20180725q218earnings8-k.htm,8-K,"8-K
+1
+a20180725q218earnings8-k.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+July 25, 2018
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company 
+o
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+ 
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this report furnished pursuant to Items 2.02 and 7.01, includin",16.049999237060547,0.20996890962161774,UP,0.20996890962161774,UP
+AMD,2018-07-02,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000112/form8-kneosalaries2018forf.htm,8-K,"8-K
+1
+form8-kneosalaries2018forf.htm
+8-K
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+June 26, 2018
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+     Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+     Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+     Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+     Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter). Emerging growth company 
+o 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+C",15.15999984741211,0.022427450924145553,UP,0.09564648928324204,UP
+AMD,2018-05-08,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000086/amd2018annualmeeting8-k.htm,8-K,"8-K
+1
+amd2018annualmeeting8-k.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+May 2, 2018
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).  Emerging growth company 
+¨
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+¨
+Item 5.07    Submission of Matters to a Vote of Security Holders.
+On May 2, 2018, Advanced Micro Devices, Inc. (the “Company”) held its 2018 Annual Meeting of Stockholders (the “Ann",11.609999656677246,0.029285113061338075,UP,0.05340223117082532,UP
+AMD,2018-05-03,10-Q,https://www.sec.gov/Archives/edgar/data/2488/000000248818000068/amd0331201810q.htm,10-Q,"10-Q
+1
+amd0331201810q.htm
+10-Q
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+ 
+ 
+Form 10-Q
+ 
+ 
+ 
+ 
+(Mark One)
+þ
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+March 31, 2018
+ 
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from             to             
+Commission File Number 001-07882
+ 
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+94-1692300
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+ 
+ 
+2485 Augustine Drive
+Santa Clara, California
+ 
+95054
+(Address of principal executive offices)
+ 
+(Zip Code)
+Registrant’s telephone number, including area code: (408) 749-4000
+ 
+ 
+ 
+ 
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  
+þ
+   No  
+¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  
+þ
+    No  
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and ""emerging growth company"" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+ 
+þ
+  
+Accelerated filer
+ 
+¨
+ 
+ 
+ 
+ 
+Non-a",10.930000305175781,0.0603842478485177,UP,0.06221402859242908,UP
+AMD,2018-04-25,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000058/a20180425q118earnings8-k.htm,8-K,"8-K
+1
+a20180425q118earnings8-k.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+April 25, 2018
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company 
+o
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+ 
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this report furnished pursuant to Items 2.02 and 7.01, includi",9.710000038146973,0.12049434312023188,UP,0.12049434312023188,UP
+AMD,2018-03-05,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000047/form8-kndonofrio3218.htm,8-K,"8-K
+1
+form8-kndonofrio3218.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+____________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+March 2, 2018
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).  Emerging growth company 
+¨
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+¨
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+  
+",11.90999984741211,0.005037818672158689,UP,-0.0327455411120916,DOWN
+AMD,2018-02-27,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000043/a6form8-kasc606disclosurev.htm,8-K,"8-K
+1
+a6form8-kasc606disclosurev.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+February 27, 2018
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).  Emerging growth company 
+¨
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+¨
+Item 2.02. Results of Operation and Financial Condition. 
+Advanced Micro Devices, Inc. (the “Company”) is furnishing in Exhibit 99.1 consolidated statements of operations f",12.529999732971191,-0.057462037406106226,DOWN,-0.04948123693312034,DOWN
+AMD,2018-02-27,10-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000042/amd-12302017x10k.htm,10-K,"10-K
+1
+amd-12302017x10k.htm
+10-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+FORM 10-K
+ 
+ 
+(Mark One)
+ý
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.
+ 
+For the fiscal year ended December 30, 2017
+ 
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.
+ 
+For the transition period from 
+            
+ 
+to 
+            
+Commission File Number 001-07882
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+Delaware
+94-1692300
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+2485 Augustine Drive, Santa Clara, California
+95054
+(Address of principal executive offices)
+(Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+(Title of each class)
+(Name of each exchange on which registered)
+Common Stock $0.01 par value per share
+The NASDAQ Capital Market
+Securities registered pursuant to Section 12(g) of the Act:
+None
+ 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  
+ý
+    No  
+¨
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act.    Yes  
+¨
+    No  
+ý
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  
+ý
+    No  
+¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation ",12.529999732971191,-0.057462037406106226,DOWN,-0.04948123693312034,DOWN
+AMD,2018-02-12,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000026/amd-form8xk2017eip0218.htm,8-K NEO 2017 EIP,"8-K
+1
+amd-form8xk2017eip0218.htm
+8-K NEO 2017 EIP
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+February 7, 2018
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+2484 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).  Emerging growth company 
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Execut",11.680000305175781,0.04366432036662893,UP,0.029109601344550207,UP
+AMD,2018-01-30,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248818000014/a20180130q417earnings8-k.htm,8-K,"8-K
+1
+a20180130q417earnings8-k.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+January 30, 2018
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+2485 Augustine Drive
+Santa Clara, California 95054
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company 
+o
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+ 
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this report furnished pursuant to Items 2.02 and 7.01, inclu",12.869999885559082,-0.03263403885226224,DOWN,-0.10101011672840354,DOWN
+AMD,2017-11-02,10-Q,https://www.sec.gov/Archives/edgar/data/2488/000000248817000227/amd0930201710q.htm,10-Q,"10-Q
+1
+amd0930201710q.htm
+10-Q
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+ 
+ 
+Form 10-Q
+ 
+ 
+ 
+ 
+(Mark One)
+þ
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+September 30, 2017
+ 
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from             to             
+Commission File Number 001-07882
+ 
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+94-1692300
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+ 
+ 
+One AMD Place
+Sunnyvale, California
+ 
+94085
+(Address of principal executive offices)
+ 
+(Zip Code)
+Registrant’s telephone number, including area code: (408) 749-4000
+ 
+ 
+ 
+ 
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  
+þ
+   No  
+¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  
+þ
+    No  
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and ""emerging growth company"" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+ 
+þ
+  
+Accelerated f",10.850000381469727,0.09953915997556484,UP,0.11059905687326688,UP
+AMD,2017-11-01,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000219/form8-kdurcan.htm,8-K,"8-K
+1
+form8-kdurcan.htm
+8-K
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+____________________
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+October 30, 2017
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+    Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+     Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+    Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+    
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).                Emerging growth company 
+o
+Emerging growth company 
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compens",10.800000190734863,0.10462963837818506,UP,0.10462963837818506,UP
+AMD,2017-10-24,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000213/a20171024q317earnings8-k.htm,8-K,"8-K
+1
+a20171024q317earnings8-k.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+October 24, 2017
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company 
+o
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+ 
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this report furnished pursuant to Items 2.02 and 7.01, including Exhi",14.25,-0.16912279630962168,DOWN,-0.2357894495913857,DOWN
+AMD,2017-08-07,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000164/amd_form8-kneolti2017re.htm,8-K,"8-K
+1
+amd_form8-kneolti2017re.htm
+8-K
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+August 1, 2017
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company 
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  
+o
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Named Executive Officer Long-Ter",13.430000305175781,-0.09754284362241139,DOWN,-0.049888314301507086,DOWN
+AMD,2017-08-03,10-Q,https://www.sec.gov/Archives/edgar/data/2488/000000248817000156/amd0701201710q.htm,10-Q,"10-Q
+1
+amd0701201710q.htm
+10-Q
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+ 
+ 
+Form 10-Q
+ 
+ 
+ 
+ 
+(Mark One)
+þ
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+July 1, 2017
+ 
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from             to             
+Commission File Number 001-07882
+ 
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+94-1692300
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+ 
+ 
+One AMD Place
+Sunnyvale, California
+ 
+94085
+(Address of principal executive offices)
+ 
+(Zip Code)
+Registrant’s telephone number, including area code: (408) 749-4000
+ 
+ 
+ 
+ 
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  
+þ
+   No  
+¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  
+þ
+    No  
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and ""emerging growth company"" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+ 
+þ
+  
+Accelerated filer
+ ",13.239999771118164,0.014350493756962512,UP,-0.009818739931136689,DOWN
+AMD,2017-07-25,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000150/a20170725q217earnings8-k.htm,8-K,"8-K
+1
+a20170725q217earnings8-k.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+July 25, 2017
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company 
+o
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+ 
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this report furnished pursuant to Items 2.02 and 7.01, including Exhibit",14.109999656677246,-0.011339465010999694,DOWN,-0.03543586195364545,DOWN
+AMD,2017-07-03,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000141/form8-kneosalariesnewdirec.htm,8-K,"8-K
+1
+form8-kneosalariesnewdirec.htm
+8-K
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+June 30, 2017
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+     Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+     Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+     Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+     Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company 
+o
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Appointment of Dire",12.149999618530273,0.07160500959247251,UP,0.1366255846259219,UP
+AMD,2017-05-08,10-Q,https://www.sec.gov/Archives/edgar/data/2488/000000248817000107/amd0401201710q.htm,10-Q,"10-Q
+1
+amd0401201710q.htm
+10-Q
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+ 
+ 
+Form 10-Q
+ 
+ 
+ 
+ 
+(Mark One)
+þ
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+April 1, 2017
+ 
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from             to             
+Commission File Number 001-07882
+ 
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+94-1692300
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+ 
+ 
+One AMD Place
+Sunnyvale, California
+ 
+94085
+(Address of principal executive offices)
+ 
+(Zip Code)
+Registrant’s telephone number, including area code: (408) 749-4000
+ 
+ 
+ 
+ 
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  
+þ
+   No  
+¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T (§232.405 of this chapter) during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  
+þ
+    No  
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definition of “large accelerated filer,” “accelerated filer,” “smaller reporting company” and ""emerging growth company"" in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+ 
+þ
+  
+Accelerated filer
+",10.039999961853027,0.10258961522755716,UP,0.13745021112392708,UP
+AMD,2017-05-01,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000096/a20170501q117earnings8-k.htm,8-K,"8-K
+1
+a20170501q117earnings8-k.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+May 1, 2017
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Indicate by check mark whether the registrant is an emerging growth company as defined in Rule 405 of the Securities Act of 1933 (§230.405 of this chapter) or Rule 12b-2 of the Securities Exchange Act of 1934 (§240.12b-2 of this chapter).
+Emerging growth company 
+o
+ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying with any new or revised ଁfinancial accounting standards provided pursuant to Section 13(a) of the Exchange Act. 
+o
+ 
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this report furnished pursuant to Items 2.02 and 7.01, including Exhibits",13.619999885559082,-0.25844343125299996,DOWN,-0.2628487484424895,DOWN
+AMD,2017-04-28,8-K,https://www.sec.gov/Archives/edgar/data/2488/000119312517148386/d382072d8k.htm,FORM 8-K,"8-K
+1
+d382072d8k.htm
+FORM 8-K
+Form 8-K
+ 
+ 
+ 
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+ 
+ 
+ 
+ 
+FORM 
+8-K
+ 
+ 
+ 
+ 
+ 
+CURRENT
+REPORT 
+ 
+Pursuant to Section 13 or 15(d) of the 
+Securities Exchange Act of 1934 
+April 26, 2017 
+Date of Report (Date of earliest event reported) 
+ 
+ 
+ 
+ 
+ADVANCED
+MICRO DEVICES, INC. 
+ 
+(Exact name of registrant as specified in its charter) 
+ 
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+ 
+(State of
+Incorporation)
+ 
+ 
+(Commission
+File Number)
+ 
+ 
+(IRS Employer
+Identification Number)
+ 
+One AMD Place 
+Sunnyvale, California 94085 
+(Address of principal executive offices) (Zip Code) 
+(408) 
+749-4000
+ 
+(Registrant’s telephone number, including area code) 
+N/A 
+ 
+(Former Name or
+Former Address, if Changed Since Last Report) 
+ 
+ 
+ 
+ 
+Check the
+appropriate box below if the Form 
+8-K
+ filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+ 
+☐
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+ 
+☐
+Soliciting material pursuant to Rule 
+14a-12
+ under the Exchange Act (17 CFR 
+240.14a-12)
+ 
+ 
+☐
+Pre-commencement
+ communications pursuant to Rule 
+14d-2(b)
+ under the Exchange Act (17 CFR
+240.14d-2(b))
+ 
+ 
+ 
+☐
+Pre-commencement
+ communications pursuant to Rule 
+13e-4(c)
+ under the Exchange Act (17 CFR
+240.13e-4(c))
+ 
+ 
+Indicate by check mark whether the registrant is an emerging growth
+company as defined in Rule 405 of the Securities Act of 1933 (§203.405 of this chapter) or Rule 
+12b-2
+ of the Securities Exchange Act of 1934 
+(§240.12b-2
+ of
+this chapter). 
+ 
+Emerging growth company  ☐ 
+If an emerging growth company, indicate by check mark if the registrant has elected not to use the extended transition period for complying
+with any new or revised financial accounting standards provided pursuant to Section 13(a) of the Exchange Act.  ☐ 
+ 
+ 
+ 
+ 
+ 
+Item 5.07
+Submission of Matters to a Vote of Security Holders. 
+ 
+On April 26, 2",13.300000190734863,0.024060127085346883,UP,-0.21879697787066898,DOWN
+AMD,2017-03-21,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000070/amd-form8xkxfifthamendment.htm,8-K,"8-K
+1
+amd-form8xkxfifthamendment.htm
+8-K
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+March 21, 2017
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+ 
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+    
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+    
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+    
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+    
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 1.01. Entry into a Material Definitive Agreement. 
+Fifth Amendment to the Amended and Restated Loan and Security Agreement 
+On March 21, 2017, Advanced Micro Devices, Inc. (the “Company”), and its subsidiaries, AMD International Sales & Service, Ltd. (together with the Company, the “Borrowers”) and ATI Technologies ULC (together with the Borrowers, the “Loan Parties”) entered into a fifth amendment (the “Fifth Amendment”) to the amended and restated loan and security agreement dated April 14, 2015 (the “Amended and Restated Loan and Security Agreement”) with certain financial institutions party to thereto from time to time as lenders (the “Lenders”) and Bank of Ameri",13.819999694824219,-0.008683059928288106,DOWN,-0.008683059928288106,DOWN
+AMD,2017-03-13,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000059/amd-xdraft8xkxaremootnessf.htm,8-K/A,"8-K/A
+1
+amd-xdraft8xkxaremootnessf.htm
+8-K/A
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+____________________
+FORM 8-K/A 
+CURRENT REPORT 
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934 
+March 1, 2017
+Date of Report (Date of earliest event reported) 
+____________________
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter) 
+____________________
+ 
+Delaware
+(State of Incorporation)
+ 
+001-07882
+(Commission File Number)
+ 
+91-1692300
+(
+I.R.S. Employer
+Identification No.)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code) 
+(408) 749-4000 
+(Registrant’s telephone number, including area code) 
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+o
+Written communication pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+o
+Pre-commencement communication pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+o
+Pre-commencement communication pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+Item 8.01. Other Events.
+On December 29, 2014, Advanced Micro Devices, Inc. (the “Company”) filed a Current Report on Form 8-K disclosing that on December 26, 2014, the Company received notice of a stockholder derivative action on November 24, 2014, on the grounds that in calendar 2014, the Company granted equity awards to the Company’s President and Chief Executive Officer, Dr. Lisa Su, in excess of the per calendar year share limit on individual awards under the Company’s 2004 Equity Incentive Plan (the “2004 Plan”). Rather than litigate this technical issue, the Board of Directors of the Company (the “Board”) decided to rescind and ",14.279999732971191,-0.04411765589787131,DOWN,0.008403353487606458,UP
+AMD,2017-03-02,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000049/amd-form8xkmar2017boarddep.htm,8-K,"8-K
+1
+amd-form8xkmar2017boarddep.htm
+8-K
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+March 1, 2017
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+    
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+    
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+    
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+    
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On March 1, 2017, Mr. Bruce Claflin, who is currently a member of the Board of Directors (the “Board”) of Advanced Micro Devices, Inc. (the “Company”), informed the Board that he will not stand for re-election to the Board at the Company’s 2017 Annual Meeting of Stockholders. Mr. Claflin has been a director of the Company since 2003 and served as Chairman of the Board from 2009 to 2016. Mr. Claflin’s decision not to stand for re-election is not as a result of any disagreement with the Company. Mr. Claflin will continue to ser",13.899999618530273,-0.061870480595608734,DOWN,-0.061151039649113725,DOWN
+AMD,2017-02-21,10-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000043/amd-12312016x10k.htm,10-K,"10-K
+1
+amd-12312016x10k.htm
+10-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+FORM 10-K
+ 
+ 
+(Mark One)
+ý
+ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.
+ 
+For the fiscal year ended December 31, 2016
+ 
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934.
+ 
+For the transition period from 
+            
+ 
+to 
+            
+Commission File Number 001-07882
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+Delaware
+94-1692300
+(State or other jurisdiction of
+incorporation or organization)
+(I.R.S. Employer
+Identification No.)
+One AMD Place, Sunnyvale, California
+94085
+(Address of principal executive offices)
+(Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+ 
+Securities registered pursuant to Section 12(b) of the Act:
+(Title of each class)
+(Name of each exchange on which registered)
+Common Stock $0.01 par value per share
+The NASDAQ Capital Market
+Securities registered pursuant to Section 12(g) of the Act:
+None
+ 
+Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities Act.    Yes  
+ý
+    No  
+¨
+Indicate by check mark if the registrant is not required to file reports pursuant to Section 13 or Section 15(d) of the Exchange Act.    Yes  
+¨
+    No  
+ý
+Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  
+ý
+    No  
+¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T durin",14.0,0.008571420397077256,UP,0.08571427209036697,UP
+AMD,2017-02-21,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000041/amd-form8xk2016eip022117fi.htm,8-K,"8-K
+1
+amd-form8xk2016eip022117fi.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+February 16, 2017
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+Executive Incentive Plan Bonuses for Fiscal 2016
+On February 16, 2017, the Compensation and Leadership Resources Committee of the Board of Directors (the “Board”) of Advanced Micro Devices, Inc. (the “Company”) approved the following annual cash performance bonuses under the Company’s Executive Incentive Plan (the “EIP”) to the Named Executive Officers (as defined in the Company’s most recent proxy statement filed with the U.S. Securities and Exchange Commission on March 24, 2016). Pursuant to the EIP, the annual cash performance bonuses ",14.0,0.008571420397077256,UP,0.08571427209036697,UP
+AMD,2017-02-21,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000039/amd-form8xkfeb2017boardapp.htm,8-K,"8-K
+1
+amd-form8xkfeb2017boardapp.htm
+8-K
+Document
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+____________________
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934
+February 15, 2017
+Date of Report (Date of earliest event reported)
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+Delaware
+001-07882
+94-1692300
+(State of Incorporation)
+(Commission File Number)
+(IRS Employer 
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+¨
+ Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+¨
+ Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+¨
+ Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+¨
+ Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 5.02. Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers.
+On February 15, 2017, Mr. Martin Edelman resigned as a member of the Board of Directors (the “Board”) of Advanced Micro Devices, Inc. (the “Company”) after four years of service on the AMD Board. Mr. Edelman's resignation did not arise from any disagreement with the Company but is due to his other professional commitments and demands on his time.
+Effective February 16, 2017, the Board of the Company appointed Mr. John Marren as an independent director to the Board. In addition, Mr. Marren was appointed to the Audit and Finance and the No",14.0,0.008571420397077256,UP,0.08571427209036697,UP
+AMD,2017-01-31,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248817000017/a20170131q416earnings8-k.htm,8-K,"8-K
+1
+a20170131q416earnings8-k.htm
+8-K
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+January 31, 2017
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+One AMD Place
+P.O. Box 3453
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this report furnished pursuant to Items 2.02 and 7.01, including Exhibits 99.1 and 99.2 attached hereto, shall not be deemed “filed” for the purposes of Section 18 of the Securities and Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Exchange Act or the Securities Act of 1933, as amended, if such subsequent filing specifically references the information furnished pursuant to Items 2.02 and 7.01 of this report.
+On January 31, 2017, Advanced Mi",10.369999885559082,0.18032785980674704,UP,0.3143683958397727,UP
+AMD,2016-10-26,10-Q,https://www.sec.gov/Archives/edgar/data/2488/000000248816000263/amd0924201610q.htm,10-Q,"10-Q
+1
+amd0924201610q.htm
+10-Q
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+ 
+ 
+ 
+ 
+Form 10-Q
+ 
+ 
+ 
+ 
+(Mark One)
+þ
+QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the quarterly period ended 
+September 24, 2016
+ 
+OR
+¨
+TRANSITION REPORT PURSUANT TO SECTION 13 OR 15 (d) OF THE SECURITIES EXCHANGE ACT OF 1934
+For the transition period from             to             
+Commission File Number 001-07882
+ 
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+94-1692300
+(State or other jurisdiction of
+incorporation or organization)
+ 
+(I.R.S. Employer
+Identification No.)
+ 
+ 
+One AMD Place
+Sunnyvale, California
+ 
+94085
+(Address of principal executive offices)
+ 
+(Zip Code)
+Registrant’s telephone number, including area code: (408) 749-4000
+ 
+ 
+ 
+ 
+Indicate by check mark whether the registrant: (1) has filed all reports required to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period that the registrant was required to file such reports), and (2) has been subject to such filing requirements for the past 90 days.    Yes  
+þ
+   No  
+¨
+Indicate by check mark whether the registrant has submitted electronically and posted on its corporate Web site, if any, every Interactive Data File required to be submitted and posted pursuant to Rule 405 of Regulation S-T during the preceding 12 months (or for such shorter period that the registrant was required to submit and post such files).    Yes  
+þ
+    No  
+¨
+Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, a non-accelerated filer or a smaller reporting company. See definition of “large accelerated filer,” “accelerated filer” and “smaller reporting company” in Rule 12b-2 of the Exchange Act.
+Large accelerated filer
+ 
+þ
+  
+Accelerated filer
+ 
+¨
+ 
+ 
+ 
+ 
+Non-accelerated filer
+ 
+¨ 
+(Do not ch",7.289999961853027,-0.008230444868793874,DOWN,-0.008230444868793874,DOWN
+AMD,2016-10-20,8-K,https://www.sec.gov/Archives/edgar/data/2488/000000248816000258/a20161020q316earnings8-k.htm,"8-K - ITEM 2.02, 7.01, 9.01","8-K
+1
+a20161020q316earnings8-k.htm
+8-K - ITEM 2.02, 7.01, 9.01
+Document
+UNITED STATES
+SECURITIES AND EXCHANGE COMMISSION
+Washington, D.C. 20549
+FORM 8-K
+CURRENT REPORT
+Pursuant to Section 13 or 15(d) of the
+Securities Exchange Act of 1934
+October 20, 2016
+ 
+Date of Report (Date of earliest event reported)
+ 
+ 
+ 
+ADVANCED MICRO DEVICES, INC.
+(Exact name of registrant as specified in its charter)
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+(State of
+Incorporation)
+ 
+(Commission
+File Number)
+ 
+(IRS Employer
+Identification Number)
+One AMD Place
+Sunnyvale, California 94085
+(Address of principal executive offices) (Zip Code)
+(408) 749-4000
+(Registrant’s telephone number, including area code)
+N/A
+(Former Name or Former Address, if Changed Since Last Report)
+ 
+ 
+ 
+Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions:
+o
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425)
+o
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12)
+o
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b))
+o
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c))
+Item 2.02 Results of Operations and Financial Condition.
+Item 7.01 Regulation FD Disclosure.
+The information in this report furnished pursuant to Items 2.02 and 7.01, including Exhibits 99.1 and 99.2 attached hereto, shall not be deemed “filed” for the purposes of Section 18 of the Securities and Exchange Act of 1934, as amended (the “Exchange Act”), or otherwise subject to the liabilities of that section. It may only be incorporated by reference in another filing under the Exchange Act or the Securities Act of 1933, as amended, if such subsequent filing specifically references the information furnished pursuant to Items 2.02 and 7.01 of this report.
+On October 20, 2016,",6.960000038146973,0.007183935411037012,UP,0.07758620099042357,UP
+AMD,2016-09-14,8-K,https://www.sec.gov/Archives/edgar/data/2488/000119312516709676/d258400d8k.htm,8-K,"8-K
+1
+d258400d8k.htm
+8-K
+8-K
+ 
+ 
+ 
+UNITED STATES 
+SECURITIES AND EXCHANGE COMMISSION 
+Washington, D.C. 20549 
+ 
+ 
+ 
+ 
+FORM 8-K
+ 
+ 
+ 
+ 
+CURRENT REPORT 
+ 
+Pursuant
+to Section 13 or 15(d) 
+ 
+of the Securities Exchange Act of 1934 
+September 8, 2016 
+ 
+Date
+of Report (Date of earliest event reported) 
+ 
+ 
+ 
+ 
+ADVANCED
+MICRO DEVICES, INC. 
+ 
+(Exact name of registrant as specified in its charter) 
+ 
+ 
+ 
+ 
+Delaware
+ 
+001-07882
+ 
+94-1692300
+ 
+(State of
+Incorporation)
+ 
+ 
+(Commission
+File Number)
+ 
+ 
+(IRS Employer
+Identification Number)
+ 
+One AMD Place 
+P.O. Box 3453 
+ 
+Sunnyvale,
+California 94088-3453 
+ 
+(Address of principal executive offices) (Zip Code) 
+(408) 749-4000 
+(Registrant’s telephone number, including area code) 
+N/A 
+ 
+(Former Name or
+Former Address, if Changed Since Last Report) 
+ 
+ 
+ 
+ 
+Check the appropriate box below
+if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions: 
+ 
+ 
+¨
+Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425) 
+ 
+ 
+¨
+Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12) 
+ 
+ 
+¨
+Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)) 
+ 
+ 
+¨
+Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)) 
+ 
+ 
+ 
+ 
+ 
+Item 1.01
+Entry into a Material Definitive Agreement. 
+ 
+Completion of Concurrent Public
+Offerings of Common Stock and Convertible Senior Notes. 
+On September 14, 2016, Advanced Micro Devices, Inc. (the “
+Company
+”) completed its registered underwritten public offering of 100 million shares (the
+“
+Shares
+”) of the Company’s common stock, par value $0.01 per share (“
+Common Stock
+”), at a public offering price of $6.00 per share, pursuant to an underwriting agreement (the “
+Equity
+Underwriting Agreement
+”) with J.P. Morgan Securities LLC, Barclays Capital Inc. and Credit Suisse Securities (USA) LLC ",6.039999961853027,0.01986753084718007,UP,0.01986753084718007,UP
