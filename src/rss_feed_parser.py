@@ -62,7 +62,7 @@ def check_for_new_articles():
         for entry in feed.entries:
             title = getattr(entry, "title", "").strip()
             link = getattr(entry, "link", "").strip()
-            summary = getattr(entry, "summary", "")
+            summary = getattr(entry, "summary", "").strip()
 
             # Get published date
             if hasattr(entry, "published_parsed") and entry.published_parsed:
