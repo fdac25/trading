@@ -1,4 +1,4 @@
-# Article finder - scrapes google to find ~300 latest articles about a specified topic from a specified source
+# Article finder - scrapes google to find articles about a specified topic from a specified source, stops when a year has no articles
 
 # Imports
 import requests
@@ -13,51 +13,81 @@ def find_first(s, c):
     if(s[i] == c): return i
   return -1
 
-base_url = "https://www.google.com/search?q=allintitle:+nvidia+site:forbes.com/sites&tbs=sbd:1&tbm=nws&start=0"
-extracted_links = []
-MAX_SEARCH = 30
+# Build Google News search url according to search string, year, and page
+def buildSearch(searchString, year, pageNum=0):
+  base = "https://www.google.com/search?q="
+  search = searchString.replace(" ", "+")
+  date = "+before:" + str(year+1) + "-01-01+after:" + str(year) + "-01-01"
+  tags = "&tbs=sbd:1&tbm=nws&start=" + str(pageNum * 10)
+  return base + search + date + tags
 
-# Iterate over multiple google search pages to find articles
-for i in range(MAX_SEARCH):
-  # Replace "start=X" in base url to iterate through pages
-  url = base_url.replace("start=0", "start=" + str(i * 10))
+# Iterate over multiple google search pages
+def full_search(searchString, year):
+  print(f"Searching in year {year}...")
+  extracted_links = []
+  max_search = 99
 
-  # Get html from url
-  response = requests.get(url)
-  soup = BeautifulSoup(response.content, 'html.parser')
+  for i in range(max_search):
+    # Build search url
+    url = buildSearch(searchString, year, i)
 
-  # Find all elements containing Forbes news article links
-  links = soup.find_all(href=re.compile("https://www.forbes.com/sites"))
+    # Get html from url
+    response = requests.get(url)
+    raw = response.text
+    soup = BeautifulSoup(response.content, 'html.parser')
 
-  # Convert links to text and remove extra data
-  for link in links:
-      href = link.get("href")
-      href = href[find_first(href, '=')+1: find_first(href, '&')]
-      text = link.get_text()
-      if href: # Ensure the href attribute exists
-          extracted_links.append(href)
+    # Check to make sure request isn't blocked by CAPTCHA
+    is_bad_response = re.match(r'<!DOCTYPE [^>]+>', raw)
+    if is_bad_response:
+      print("BAD HTML RESPONSE - POSSIBLE CAPTCHA BLOCK")
+      print(soup.prettify())
+      break;
 
-  # Print status
-  print(f"Extracted {len(links)} links from search page {i+1}")
-  if len(links) == 0:
-    print(" ! ZERO LINKS EXTRACTED - ENDING SEARCH")
+    # Find all elements containing Forbes news article links
+    links = soup.find_all(href=re.compile("https://www.forbes.com/sites"))
+
+    # Extract news links and titles
+    for link in links:
+        href = link.get("href")
+        href = href[find_first(href, '=')+1: find_first(href, '&')]
+        text = link.get_text()
+        if href and href.split('/')[5] == str(year): # Ensure the href attribute exists and is from the correct year
+            extracted_links.append(href)
+
+    # Print status
+    print(f"Extracted {len(links)} links from search page {i+1}")
+    if len(links) == 0:
+      print(f"Page runout - ending search for year {year}")
+      print(f"Found {len(extracted_links)} for year {year}")
+      return extracted_links
+    time.sleep(1)
+
+# Iterate over years to find articles
+year = 2025
+links = []
+
+while True:
+  new_links = full_search("allintitle:nvidia site:forbes.com", year)
+  if len(new_links) > 0: # Add links to list and move on to previous year
+    links.extend(new_links)
+    year -= 1
+  else: # End search if there are no articles found for the year
+    print(f"Year runout - ending search")
     break
-  # time.sleep(1)
 
-# # Find and remove duplicates - will make list unordered
+# # Find and remove duplicates
 # num_links = len(extracted_links)
 # extracted_links = set(extracted_links)
 # num_dup = num_links - len(extracted_links)
-# print(f"Removed {num_dup} duplicate links")
 
 # Print results
-# for link_data in extracted_links:
+for link_data in links:
   # print(link_data['text'])
-  # print("" + str(link_data))
+  print("" + str(link_data))
   # print("")
-print(f"Found {len(extracted_links)} links")
+print(f"Found {len(links)} links")
 
 # Export links as CSV
-df_final = pd.DataFrame(extracted_links, columns=['Link'])
+df_final = pd.DataFrame(links, columns=['Link'])
 df_final.to_csv('forbes_search.csv', index=True)
 df_final.head(10)
