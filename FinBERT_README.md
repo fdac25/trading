@@ -5,6 +5,8 @@
 
 Whether this works or not may depend on your computer. I use a mac, and had to use enviroment_mac.yml instead of environment.yml. To test FinBERT, follow the instructions in the readme within the FinBERT directory. HOWEVER, I have already downloaded the model and placed it in the directory models/sentiment/LLM_model. I have also already placed the config.json file there. This config file is modified from the original, and to work n our material it might require slight modifications again, but will evaluate once implemented.
 
+Right now, FinBERT outputs a csv that gives a sentiment score for every single sentence in the provided text. The easiest solution might be to have another python script that goes through the output csv for each artcile and finds some sort of average for the whole article.
+
 # ERRORS
 
 I had to modify the environment file and the config file in the models directory to get the test to work. Many of the issues I ran into stem from macOS no longer supporting certain dependencies, so it might require some testing with different systems. 
