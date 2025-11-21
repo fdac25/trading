@@ -28,7 +28,7 @@ Prepare Data
 articles = pd.read_csv(ARTICLES_CSV)
 stock_data = pd.read_csv(STOCK_DATA_CSV)
 
-# Parse Dates
+# Parse article dates
 articles["Time_clean"] = articles["Time"].str.rsplit(" ", n=1).str[0]
 articles["Time_clean"] = pd.to_datetime(
     articles["Time_clean"], format="%b %d, %Y, %I:%M%p"
@@ -36,15 +36,39 @@ articles["Time_clean"] = pd.to_datetime(
 articles["Date"] = pd.to_datetime(articles["Time_clean"].dt.date)
 articles = articles.sort_values("Date")
 
+# Parse stock dates
 stock_data["StockDate"] = pd.to_datetime(stock_data["Date"], format="%d-%b-%y")
 stock_data = stock_data.sort_values("StockDate")
 
-# Compute UP/DOWN labels
-stock_data["PrevClose"] = stock_data["Close"].shift(1)
-stock_data["Label"] = stock_data.apply(
-    lambda row: "UP" if row["Close"] > row["PrevClose"] else "DOWN", axis=1
-)
-stock_data = stock_data.drop(columns="PrevClose")
+# Compute UP/DOWN/NEUTRAL labels using 3-day return
+stock_data["Close_t"] = stock_data["Close"]
+stock_data["Close_t3"] = stock_data["Close"].shift(-3)
+
+# 3-day return: (price in 3 days - today's price) / today's price
+stock_data["Return_3d"] = (stock_data["Close_t3"] - stock_data["Close_t"]) / stock_data["Close_t"]
+
+# Drop rows where 3-day future data doesn't exist
+stock_data = stock_data.dropna(subset=["Return_3d"])
+
+# Calculated NVDA Volatility
+# NEUTRAL if |return| < k × volatility
+vol = stock_data["Return_3d"].std()
+
+k = 0.35
+UP_THRESHOLD = k * vol
+DOWN_THRESHOLD = -k * vol
+
+def classify_vol(r):
+    if r > UP_THRESHOLD:
+        return "UP"
+    elif r < DOWN_THRESHOLD:
+        return "DOWN"
+    else:
+        return "NEUTRAL"
+
+stock_data["Label"] = stock_data["Return_3d"].apply(classify_vol)
+
+stock_data = stock_data.drop(columns=["Close_t", "Close_t3"])
 
 """
 Merge articles with stock data
