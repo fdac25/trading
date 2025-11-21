@@ -1,3 +1,13 @@
+# tfidf_lr_model.py
+#
+# Implements a primitve base model.
+#
+# Checks to see if closing price is greater than the previous closing price.
+#
+# Matches daily stock data from 2011-2025 with NVDA forbes articles.
+#
+# Does NOT classify anything as 'neutral'.
+
 import pandas as pd
 import numpy as np
 import os
