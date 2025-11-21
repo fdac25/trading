@@ -1,12 +1,10 @@
 # tfidf_lr_model.py
 #
-# Implements a primitve base model.
+# Implements a primitve base model. Classifies text as UP, DOWN, or NEUTRAl.
 #
-# Checks to see if closing price is greater than the previous closing price.
+# Computs UP/DOWN/NEUTRAL labels using 3-day return.
 #
 # Matches daily stock data from 2011-2025 with NVDA forbes articles.
-#
-# Does NOT classify anything as 'neutral'.
 
 import pandas as pd
 import numpy as np
@@ -14,6 +12,7 @@ import os
 import pickle
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.linear_model import LogisticRegression
+from sklearn.multiclass import OneVsRestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score, classification_report
 
@@ -89,7 +88,10 @@ X = merged["text"].astype(str)
 y = merged["Label"].astype(str)
 
 # TF-IDF Vectorization
-vectorizer = TfidfVectorizer(stop_words="english", max_features=5000)
+vectorizer = TfidfVectorizer(
+    stop_words="english", 
+    max_features=2000,
+)
 X_tfidf = vectorizer.fit_transform(X)
 
 # Train/test split
@@ -98,7 +100,10 @@ X_train, X_test, y_train, y_test = train_test_split(
 )
 
 # Train Model
-model = LogisticRegression(max_iter=2000)
+model = OneVsRestClassifier(LogisticRegression(
+    max_iter=3000,
+    class_weight="balanced",
+))
 model.fit(X_train, y_train)
 
 y_pred =  model.predict(X_test)
