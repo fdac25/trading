@@ -103,16 +103,12 @@ def check_for_new_articles():
                     final_result = gemini_analysis(title, body, sentiment)
 
                     print(f"╠{published_pretty}", end="")
-                    print_colored_sentiment(sentiment)
-                    print(f"[{Fore.BLUE}{Style.BRIGHT}\033]8;;{link}\033\\{title}\033]8;;\033\\{Style.RESET_ALL}]\n║")
-                    print("Google Gemini Results:")
-                    print(f"╠{published_pretty}", end="")
                     print_colored_sentiment(final_result)
                     print(f"[{Fore.BLUE}{Style.BRIGHT}\033]8;;{link}\033\\{title}\033]8;;\033\\{Style.RESET_ALL}]\n║")
 
-                    # with open(CSV_FILE, "a", newline="", encoding="utf-8") as f:
-                    #   writer = csv.writer(f)
-                    #   writer.writerow([published_csv, title, body])
+                    with open(CSV_FILE, "a", newline="", encoding="utf-8") as f:
+                        writer = csv.writer(f)
+                        writer.writerow([published_csv, final_result, title, body])
 
 def gemini_analysis(ARTICLE_TITLE, ARTICLE_BODY, SCORE): 
     client = genai.Client() 
@@ -134,43 +130,17 @@ def gemini_analysis(ARTICLE_TITLE, ARTICLE_BODY, SCORE):
         Respond with one word only: UP, DOWN, or NEUTRAL.""" 
 
     response = client.models.generate_content( 
-        model="gemini-3-pro-preview", 
+        model="gemini-2.5-flash", 
         contents= prompt ) 
 
     return response.text
 
 
 def main():
-    print(f"╔[{datetime.now().strftime('%Y-%m-%d %a %H:%M')}][Checking feeds for Nvidia articles]\n║")
     while True:
+        print(f"╔[{datetime.now().strftime('%Y-%m-%d %a %H:%M')}][Checking feeds for Nvidia articles]\n║")
         check_for_new_articles()
         print(f"╚[{datetime.now().strftime('%Y-%m-%d %a %H:%M')}][Checked all feeds]\n")
-
-        """DUMMY STUFF
-        # Dummy article for testing
-        dummy_article = {
-        "title": "Nvidia launches new AI GPU",
-        "link": "https://example.com/nvidia-ai-gpu",
-        "summary": "Nvidia has announced a new GPU optimized for AI workloads.",
-        "body": "The new GPU is designed to accelerate large language models and high-performance computing tasks. Analysts predict strong demand in the AI market."
-        }
-        dummy_sentiment_score = "NEUTRAL"
-        
-        title = dummy_article["title"]
-        link = dummy_article["link"]
-        summary = dummy_article["summary"]
-        body = dummy_article["body"]
-
-        #sentiment = analyze_sentiment(body)
-        #print("DEBUG: FinBERT sentiment:", sentiment)
-
-        final_result = gemini_analysis(title, body, dummy_sentiment_score)
-        print("DEBUG: Gemini result:", final_result)
-        
-        print(f"╠{time.strftime('[%Y-%m-%d %a %H:%M]')} ", end="")
-        print_colored_sentiment(final_result)
-        print(f"[{Fore.BLUE}{Style.BRIGHT}\033]8;;{link}\033\\{title}\033]8;;\033\\{Style.RESET_ALL}]\n║")
-        """
 
         time.sleep(CHECK_INTERVAL)
 
